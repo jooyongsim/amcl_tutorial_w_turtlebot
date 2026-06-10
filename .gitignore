@@ -1,0 +1,6 @@
+# Lecture slides folder (not tracked)
+slides/
+
+# Python artifacts
+__pycache__/
+*.pyc

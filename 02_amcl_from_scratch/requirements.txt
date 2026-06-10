@@ -1,0 +1,8 @@
+numpy>=1.21
+matplotlib>=3.4
+# Optional: scipy gives a faster distance transform; the code falls back to a
+# pure-numpy BFS if it is missing.
+scipy>=1.7
+# Optional: only needed to load/save ROS-format maps (.pgm/.yaml)
+Pillow>=8.0
+PyYAML>=5.4
